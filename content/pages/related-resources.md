@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 402a84c4-a921-d6d5-3d3f-4335371fdf5f
 ---
@@ -111,7 +113,7 @@ The Basic Atlas of the Drosophila Brain provides the user with a hypertext tour 
 Molecular Biology/Protein Analysis
 ----------------------------------
 
-[BLAST](http://www.ncbi.nlm.nih.gov/BLAST/)® (Basic Local Alignment Search Tool) is a set of similarity search programs designed to explore all of the available sequence databases regardless of whether the query is protein or DNA.
+[BLAST](http://www.ncbi.nlm.nih.gov/BLAST/){{< sup "®" >}} (Basic Local Alignment Search Tool) is a set of similarity search programs designed to explore all of the available sequence databases regardless of whether the query is protein or DNA.
 
 The Baylor College of Medicine (BCM) [Search Launcher](http://www.xmarks.com/site/searchlauncher.bcm.tmc.edu/seq-util/seq-util.html) is an ongoing project to organize molecular biology-related search and analysis services available on the web by function, by providing a single point-of-entry for related searches.
 

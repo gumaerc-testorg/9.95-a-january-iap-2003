@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: These lecture summaries provide overviews of the topics covered by the
+  professors, each of whom is a leader in their field.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 1bc64f86-4a6a-2266-3862-2fbfa3c49fd4
 ---

@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: An image of a  Midsaggital brain scan of a human.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Midsaggital Scan of a Human Brain (thumbnail)
 uid: 879c03ec-9ecb-3284-f204-7e4ebf0b87ae
 ---
 Midsaggital scan of a human brain. (Image courtesy of MIT Department of Brain and Cognitive Sciences.)
-

@@ -97,7 +97,7 @@ The [National Institute on Aging](https://www.nia.nih.gov/about) leads a broad s
 
 The [National Multiple Sclerosis Society](http://www.nmss.org/) promotes research, educates, advocates on critical issues, and organizes a wide range of programs, including support for the newly diagnosed and those living with MS over time.
 
-The [National Neurofibromatosis Foundation of the U.S.](http://www.nf.org/) addresses a set of genetic disorders which cause tumors to grow along various types of nerves.
+The [National Neurofibromatosis Foundation of the U.S.](https://www.nfnetwork.org/) addresses a set of genetic disorders which cause tumors to grow along various types of nerves.
 
 The [National Neurotrauma Society](http://www.neurotrauma.org/) promotes neurotrauma research by enhancing communications, providing a forum, and increasing support on the national and international level.
 

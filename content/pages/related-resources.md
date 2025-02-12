@@ -169,7 +169,7 @@ This is a link to the [MGH/MIT/HMS](http://www.martinos.org/) Athinoula A. Marti
 
 The [American Association for Applied Linguistics](http://www.aaal.org/) is a professional organization of scholars who are interested in and actively contribute to the multi-disciplinary field of applied linguistics.
 
-The [American Philological Association](http://www.apaclassics.org/) is the principal learned society for classical studies of ancient Greek and Roman languages, literatures, and civilizations.
+The [American Philological Association](https://www.classicalstudies.org/american-philological-association-1) is the principal learned society for classical studies of ancient Greek and Roman languages, literatures, and civilizations.
 
 The [Association for Computational Linguistics](http://www.aclweb.org/) is an international scientific and professional society for people working on problems involving natural language and computation.
 
@@ -185,4 +185,4 @@ The [Linguistic Society of America](http://www.lsadc.org/) serves its members th
 
 The [Philological Society](http://www.philsoc.org.uk/) is devoted to the scholarly study of language and languages.
 
-The [Society for the Study of Symbolic Interaction](http://www.espach.salford.ac.uk/sssi/index.php) is an international professional organization of scholars interested in qualitative research, especially interactionist research.
+The [Society for the Study of Symbolic Interaction](https://www.symbolicinteraction.org/) is an international professional organization of scholars interested in qualitative research, especially interactionist research.

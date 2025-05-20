@@ -2,7 +2,7 @@
 content_type: resource
 description: Midsaggital scan of a human brain. (Image courtesy of MIT Department
   of Brain and Cognitive Sciences.)
-file: /ol-ocw-studio-app/courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/879c03ec9ecb3284f2047e4ebf0b87ae_9-95aiap03-th.jpg
+file: /courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/879c03ec9ecb3284f2047e4ebf0b87ae_9-95aiap03-th.jpg
 file_size: 6737
 file_type: image/jpeg
 image_metadata:

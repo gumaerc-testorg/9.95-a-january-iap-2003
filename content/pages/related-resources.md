@@ -67,7 +67,7 @@ The [International Society for Autonomic Neuroscience](http://www.autonomicneuro
 
 [International Society for Neurochemistry](http://www.neurochem.org/). This portal is provided to the neurochemistry community to facilitate the worldwide advancement of neurochemistry and related neuroscience discipline.
 
-[Brain Pathology](http://www.blackwellpublishing.com/journal.asp?ref=1015-6305&site=1) is the official publication of [International Society for Neuropathology](http://www.intsocneuropathol.com/).
+[Brain Pathology](https://onlinelibrary.wiley.com/journal/17503639) is the official publication of [International Society for Neuropathology](http://www.intsocneuropathol.com/).
 
 The [International Society for Psychoneuroendocrinology](http://www.ispne.org/) promotes and disseminates knowledge on hormones, their interactions with brain, and body processes and behavior, as well as their clinical applications.
 
@@ -121,7 +121,7 @@ The Baylor College of Medicine (BCM) [Search Launcher](http://www.xmarks.com/sit
 
 [Pfam](http://pfam.xfam.org/) is a large collection of multiple sequence alignments and hidden Markov models covering many common protein families.
 
-[Prodom](http://prodom.prabi.fr/prodom/current/html/home.php) is a comprehensive set of protein domain families automatically generated from the SWISS-PROT and TrEMBL sequence databases.
+[Prodom](https://bio.tools/prodom) is a comprehensive set of protein domain families automatically generated from the SWISS-PROT and TrEMBL sequence databases.
 
 The [ExPASy](http://www.expasy.ch/) (Expert Protein Analysis System) proteomics server of the Swiss Institute of Bioinformatics is dedicated to the analysis of protein sequences and structures.
 
@@ -179,7 +179,7 @@ The [Association for Machine Translation in the Americas](http://www.amtaweb.org
 
 The [International Speech Communication Association](http://www.isca-speech.org/) covers all the aspects of speech communication (acoustics, phonetics, phonology, linguistics, natural language processing, artificial intelligence, cognitive science, signal processing, pattern recognition, etc.
 
-[Epigraphic Society](http://www.epigraphy.org/) is concerned with the discovery and decipherment of ancient inscriptions.
+[Epigraphic Society](http://www.equinox-project.com/index-l.htm) is concerned with the discovery and decipherment of ancient inscriptions.
 
 The [Linguistic Society of America](http://www.lsadc.org/) serves its members through scholarly meetings, publications, and special activities designed to advance the discipline of linguistics.
 
